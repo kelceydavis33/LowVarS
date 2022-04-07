@@ -1,13 +1,7 @@
 # LowVarS
-LowVarS is a project to search for low frequency variability of extragallactic sources.
+LowVarS is a project to search for low frequency variability due to ionospheric activity in extended sources within MWA data
 
 ### Project Outline
-
-1. The Data
-
-2. Variable Search Criteria
-
-3. Identifying variables
 
 **What is known?**
 
@@ -26,11 +20,5 @@ Shoule we process new data from AVSO? Should we concentrate on a small portion o
 
 Should we concentrate on certain frequencies? Are we considering polarized sources?
 
-
-**How do we quantify a variable star?**
-
-look for data pouints along the flair, question flares that are made of single data points
-
-consider beam power, come up with relationship between beam power and datapoint reliability
 
 
